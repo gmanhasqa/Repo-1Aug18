@@ -5,5 +5,7 @@ Welcome to my recipies section
 kheer
 pasta
 maggie
+beans
+pizza
 
 thank you :)
